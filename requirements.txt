@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+python-dotenv
+langchain
+langchain-community
+chromadb
+pypdf
+sentence-transformers
+reportlab
+openpyxl
+google-generativeai
+openai
+langgraph
