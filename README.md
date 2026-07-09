@@ -189,25 +189,6 @@ streamlit run app.py
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots here after deployment.
-
-```
-Home Page
-
-Dashboard
-
-EDA
-
-Forecasting
-
-AI Insights
-
-CEO Assistant
-
-PDF Report
-```
 
 ---
 
